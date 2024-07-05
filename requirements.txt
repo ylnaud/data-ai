@@ -1,0 +1,3 @@
+streamlit\npandas\nnumpy\nmatplotlib\nseaborn
+
+ git add requirements.txt app.py
